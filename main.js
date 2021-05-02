@@ -5,8 +5,8 @@ var ln ="bbbb";
 var fln = fn.concat(ln);
 console.log(fln);
 
-var a ="10";
-var b ="50";
+var a =10;
+var b =50;
 
 var add=a+b;
 console.log(add);
